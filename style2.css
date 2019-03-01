@@ -1,0 +1,42 @@
+
+body{
+	background-color: pink;
+}
+#wrapper {
+	width: 1140px;
+	height: 1000px;
+	background: linear-gradient(to top left, greenyellow, turquoise);
+	margin: 0 auto;
+}
+
+#wrapper, #first, #second,  #fourth {
+	border: 2px solid red;
+}
+
+#first {
+	width: 318px;
+	margin-left: 100px;
+}
+
+#second{
+	text-align: center;
+}
+
+#three{
+	width: 699px;
+	margin: 0 auto;
+}
+
+#fourth{
+	background-color: white;
+	heigth: auto;
+	margin-top:60px;
+}
+
+#fourth p:first-child {
+	text-align: center;
+}
+
+#fourth p:last-child {
+	text-align: right;
+}
