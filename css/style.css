@@ -1,0 +1,31 @@
+body{
+	background: #D8BFD8;
+}
+
+.wrapper {
+	width: 1140px;
+	background: linear-gradient(to bottom left, rgb(221, 160, 221), rgb(238, 130, 238), rgb(221, 160, 221), rgb(238, 130, 238));
+	margin: 0 auto;
+}
+
+
+h1 {text-align: center;
+color: #0000ff;
+font-family: Georgia;}
+
+p {font-family: Times New Roman;
+font-size: 25px;
+padding-left: 20px;
+padding-right: 20px;}
+
+
+ table {text-align: center;
+    width: 90%; /* Ширина таблицы */
+    color: #000000; /* Цвет текста */
+    border-spacing: 15px; /* Расстояние между ячейками */
+   }
+
+ #one {
+	width: 1140px;
+	height: 20px;
+}
