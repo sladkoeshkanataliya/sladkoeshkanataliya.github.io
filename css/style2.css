@@ -1,0 +1,15 @@
+body{
+	background: #D8BFD8;
+}
+
+.wrapper {
+	width: 1140px;
+	
+	background: linear-gradient(to bottom left, rgb(221, 160, 221), rgb(238, 130, 238), rgb(221, 160, 221), rgb(238, 130, 238));
+	margin: 0 auto;
+}
+
+#one {
+	width: 1140px;
+	height: 20px;
+}
