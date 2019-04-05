@@ -1,0 +1,38 @@
+body{
+	background: #D8BFD8;
+}
+
+.wrapper {
+	width: 1140px;
+	height: 1000px;
+	background: linear-gradient(to bottom left, rgb(221, 160, 221), rgb(238, 130, 238), rgb(221, 160, 221), rgb(238, 130, 238));
+	margin: 0 auto;
+}
+
+#one {
+	width: 1140px;
+	height: 20px;
+}
+
+
+h1 {text-align: center;
+	font-size: 110px;
+color: #4B0082;
+font-family: GABRIOLA;}
+
+h2 {font-family: Times New Roman;
+	color: #000000;
+font-size: 25px;
+padding-left: 20px;
+padding-right: 20px;
+padding-bottom: 20px;}
+
+p {text-align: center;
+	font-family: Times New Roman;
+	color: #000000;
+font-size: 20px;}
+
+td {font-family: Times New Roman;
+	color: #000000;
+font-size: 20px;}
+

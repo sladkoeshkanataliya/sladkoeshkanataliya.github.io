@@ -1,42 +1,31 @@
-
 body{
-	background-color: pink;
+	background: #D8BFD8;
 }
-#wrapper {
+
+.wrapper {
 	width: 1140px;
-	height: 1000px;
-	background: radial-gradient(yellow, pink, fuchsia, SkyBlue, orange);
+	background: linear-gradient(to bottom left, rgb(221, 160, 221), rgb(238, 130, 238), rgb(221, 160, 221), rgb(238, 130, 238));
 	margin: 0 auto;
 }
 
-#wrapper, #first, #second,  #fourth {
-	border: 2px solid red;
-}
 
-#first {
-	width: 225px;
-	margin-left: 100px;
-}
+h1 {text-align: center;
+color: #0000ff;
+font-family: Georgia;}
 
-#second{
-	text-align: center;
-}
+p {font-family: Times New Roman;
+font-size: 25px;
+padding-left: 20px;
+padding-right: 20px;}
 
-#three{
-	width: 699px;
-	margin: 0 auto;
-}
 
-#fourth{
-	background-color: white;
-	heigth: auto;
-	margin-top:60px;
-}
+ table {text-align: center;
+    width: 90%; /* Ширина таблицы */
+    color: #000000; /* Цвет текста */
+    border-spacing: 15px; /* Расстояние между ячейками */
+   }
 
-#fourth p:first-child {
-	text-align: center;
-}
-
-#fourth p:last-child {
-	text-align: right;
+ #one {
+	width: 1140px;
+	height: 20px;
 }
