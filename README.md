@@ -1,1 +1,0 @@
-# sladkoeshkanataliya.github.io
